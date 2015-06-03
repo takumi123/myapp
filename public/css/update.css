@@ -1,0 +1,27 @@
+.textarea_top{
+  padding: 0 10px;
+}
+
+.margin_top{
+  margin-top: 15px;
+}
+
+.link{
+  color: blue;
+}
+
+.small_image{
+  width: 20%;
+}
+
+.answer_nav{
+
+border-bottom: 1px solid #ccc;
+
+}
+
+.had_answerd{
+  background-color: aqua;
+
+
+}
